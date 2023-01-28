@@ -1,10 +1,7 @@
 # GraphReg
 
-![image](https://github.com/zikai1/GraphReg/blob/main/GraphReg/input.png)
-![image](https://github.com/zikai1/GraphReg/blob/main/GraphReg/result.png)
-
-<img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/input.png" width = "300" height = "200" alt="Input" align=center />
-<img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/result.png" width = "300" height = "200" alt="Input" align=center />
+<img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/input.png" width = "200" height = "200" alt="Input" align=center />
+<img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/result.png" width = "200" height = "200" alt="result" align=center />
 
 ## 1. Motivation
 This work aims to improve the robustness and convergence process with respect to currently dynamical point cloud registration methods. 
