@@ -24,8 +24,7 @@ There are several parameters that can be adjusted for better registration result
 + **$\alpha$**: Although we can fix $\alpha=5.2$ to remove outliers for most test settings, smaller $\alpha$ will further improve the robusteness when there are a large percentage of outliers. 
 
 ## 3. Contact
-If you have any question, please do not hesitate to contact  
-myzhao@baai.ac.cn
+If you have any question, please do not hesitate to contact myzhao@baai.ac.cn
 
 ## 4. Citation
 If you find this implementation useful for your research, please cite:
