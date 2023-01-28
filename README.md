@@ -1,6 +1,7 @@
 # GraphReg
 
-![image](https://github.com/zikai1/GraphReg/GraphReg/input.png "Input")
+![image](https://github.com/zikai1/GraphReg/blob/main/GraphReg/input.png "Input")
+![image](https://github.com/zikai1/GraphReg/blob/main/GraphReg/result.png "Result")
 
 
 ## 1. Motivation
