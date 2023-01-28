@@ -1,5 +1,8 @@
 # GraphReg
 
+![image](https://github.com/zikai1/GraphReg/GraphReg/input.png "Input")
+
+
 ## 1. Motivation
 This work aims to improve the robustness and convergence process with respect to currently dynamical point cloud registration methods. 
 
