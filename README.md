@@ -1,6 +1,8 @@
 # GraphReg
 <table>
     <tr>
+        <td ><center><img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/input_clean.png" width = "200" height = "200"> </center></td>
+        <td ><center><img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/result_clean.png" width = "200" height = "200"> </center></td>
         <td ><center><img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/input.png" width = "200" height = "200"> </center></td>
         <td ><center><img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/result.png" width = "200" height = "200"> </center></td>
     </tr>
