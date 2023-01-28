@@ -21,20 +21,13 @@ We use the graph signal processing theory to describe the local geometry feature
 
 There are several parameters that can be adjusted for better registration results or faster convergence process:
 + **cool_down**: Smaller values typically result in faster convergence but with fluctuations, whereas larger ones ensure more accurate registrations. The suggested interval scope empirically attaining good results is [0.8, 0.98]. 
-+ **$\alpha$**: Although we can fix $\alpha=5.2$ for most test settings, smaller $\alpha$ will further improve the robusteness when there are a large percentage of outliers. 
++ **$\alpha$**: Although we can fix $\alpha=5.2$ to remove outliers for most test settings, smaller $\alpha$ will further improve the robusteness when there are a large percentage of outliers. 
 
 ## 3. Contact
 If you find any question, please do not hesitate to contact me 
 myzhao@baai.ac.cn
 
 ## 4. Citation
-If you find our work useful, please cite 
-@ARTICLE{9966512,
-  author={Zhao, Mingyang and Ma, Lei and Jia, Xiaohong and Yan, Dong-Ming and Huang, Tiejun},
-  journal={IEEE Transactions on Image Processing}, 
-  title={GraphReg: Dynamical Point Cloud Registration With Geometry-Aware Graph Signal Processing}, 
-  year={2022},
-  volume={31},
-  number={},
-  pages={7449-7464},
-  doi={10.1109/TIP.2022.3223793}}
+If you find the work useful, please cite
++ M. Zhao, L. Ma, X. Jia, D. -M. Yan and T. Huang, "GraphReg: Dynamical Point Cloud Registration With Geometry-Aware Graph Signal Processing," in IEEE Transactions on Image Processing, vol. 31, pp. 7449-7464, 2022, doi: 10.1109/TIP.2022.3223793.
++ P. Jauer, I. Kuhlemann, R. Bruder, A. Schweikard and F. Ernst, "Efficient Registration of High-Resolution Feature Enhanced Point Clouds," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 41, no. 5, pp. 1102-1115, 1 May 2019, doi: 10.1109/TPAMI.2018.2831670.
