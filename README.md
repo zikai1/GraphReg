@@ -28,6 +28,6 @@ If you find any question, please do not hesitate to contact me
 myzhao@baai.ac.cn
 
 ## 4. Citation
-If you find the work useful, please cite
+If you find this implementation useful for your research, please cite:
 + M. Zhao, L. Ma, X. Jia, D. -M. Yan and T. Huang, "GraphReg: Dynamical Point Cloud Registration With Geometry-Aware Graph Signal Processing," in IEEE Transactions on Image Processing, vol. 31, pp. 7449-7464, 2022, doi: 10.1109/TIP.2022.3223793.
 + P. Jauer, I. Kuhlemann, R. Bruder, A. Schweikard and F. Ernst, "Efficient Registration of High-Resolution Feature Enhanced Point Clouds," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 41, no. 5, pp. 1102-1115, 1 May 2019, doi: 10.1109/TPAMI.2018.2831670.
