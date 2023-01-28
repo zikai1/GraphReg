@@ -7,6 +7,7 @@
         <td ><center><img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/result.png" width = "200" height = "200"> </center></td>
     </tr>
 </table>
+
 ## 1. Motivation
 This work aims to improve the robustness and convergence process with respect to currently dynamical point cloud registration methods. 
 
