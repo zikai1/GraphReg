@@ -17,7 +17,7 @@ We use the graph signal processing theory to describe the local geometry feature
 
 ## 2. Useage
 
-> Run "GraphReg.m" to see demo examples.
+`Run "GraphReg.m" to see demo examples.`
 
 There are several parameters that can be adjusted for better registration results or faster convergence process:
 + **cool_down**: Smaller values typically result in faster convergence but with fluctuations, whereas larger ones ensure more accurate registrations. The suggested interval scope empirically attaining good results is [0.8, 0.98]. 
