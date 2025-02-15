@@ -1,4 +1,4 @@
-# GraphReg
+# GraphReg (TIP 2022)
 <table>
     <tr>
         <td ><center><img src="https://github.com/zikai1/GraphReg/blob/main/GraphReg/input_clean.png" width = "200" height = "200"> </center></td>
